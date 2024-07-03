@@ -1,4 +1,4 @@
-// File: /Users/nafseerck/Documents/personal work/foxpanel-creative/app/page.tsx
+// File: /Users/nash/Documents/Nafc/foxpanelcreative/app/page.tsx
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
